@@ -104,7 +104,7 @@ export default function About() {
                   src="/4.jpg"
                   alt="Harsh mentoring fellow developers"
                   width={500}
-                  height={500}
+                  height={600}
                   className="object-cover rounded-lg shadow-lg w-full h-64"
                 />
               </div>
