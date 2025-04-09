@@ -4,7 +4,7 @@ description: This is JavaScript tutorial and this is for learning JavaScript
 slug: css-tutorial
 date: 2/02/2025
 author: Harsh
-image: https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+image: /css.png
 ---
 
 # CSS Tutorial: A Comprehensive Guide
